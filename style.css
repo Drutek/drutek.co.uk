@@ -40,11 +40,13 @@
 			}
 		}
 		.hero h1{
+			font-weight: normal;
 			margin-top: 0;
 			color: #ffffff;
 			font-size: 5rem;
 		}
 		.hero h2{
+			font-weight: normal;
 			margin-top: 0;
 			color: #21a9b6;
 			font-size: 3rem;
